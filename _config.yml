@@ -1,11 +1,12 @@
 # Basic
-title: Vno Jekyll
-subtitle: A blog-orientation theme for Jekyll
+title: YorrickBao's Blog
+subtitle: An iOS developer, swift fanatic
 welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
-description: Vno Jekyll is a port of my Ghost theme vno.
-creator: <a href="http://onev.cat">@onevcat</a>
+description: Welcome.
+creator: <a href="http://www.YorrickBao.com">@YorrickBao</a>
+#<a href="http://onev.cat">@onevcat</a>
 
-url: "http://vno.onevcat.com"
+url: "http://www.YorrickBao.com"
 
 permalink: /:year/:month/:title/
 
@@ -13,17 +14,17 @@ permalink: /:year/:month/:title/
 highlighter: rouge
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-cover_color: red
+cover_color:
 
 # The blog button should not be removed.
 blog_button:
-    title: Blog
+    title: 博客
     description: Visit blog
 
 # Navigation buttons in the front page.
 nav:
-    - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
-    # - {title: Another Button, description: A button, url: 'http://example.com'}
+    # - {title: Projects, description: My Projects, url: 'http://onevcat.com'}
+    # - {title: Another Button, description: A button, url: 'http://onevcat.com'}
 
 # Pagination
 gems: [jekyll-paginate]
@@ -33,15 +34,15 @@ paginate_path: "page/:num/"
 # Comment
 comment:
     disqus: vno-jekyll
-    # duoshuo: 
-    
+    # duoshuo:
+
 # Social
 social:
-    weibo: onevcat
-    github: onevcat
-    twitter: onevcat
-    gplus: 107108267983477358170
-    mail: onev@onevcat.com
+    #weibo: YorrickBao
+    github: YorrickBao
+    twitter: YorrickBao
+    #gplus: 107108267983477358170
+    mail: Yorrick.Bao@126.com
 
 # Google Analytics
 ga:
