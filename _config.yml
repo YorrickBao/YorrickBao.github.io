@@ -1,8 +1,8 @@
 # Basic
-title: YorrickBao's Blog
-subtitle: An iOS developer, swift fanatic
+title: Yorrick's Blog
+subtitle: In Code, We Trust
 welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
-description: Welcome.
+description: An iOS developer, swift fanatic
 creator: <a href="http://www.YorrickBao.com">@YorrickBao</a>
 #<a href="http://onev.cat">@onevcat</a>
 
@@ -32,8 +32,8 @@ paginate: 10
 paginate_path: "page/:num/"
 
 # Comment
-comment:
-    disqus: vno-jekyll
+#comment:
+#    disqus: vno-jekyll
     # duoshuo:
 
 # Social
@@ -45,6 +45,6 @@ social:
     mail: 13818740118@126.com
 
 # Google Analytics
-ga:
+#ga:
     # id: your_ga_id
     # host: your_host
